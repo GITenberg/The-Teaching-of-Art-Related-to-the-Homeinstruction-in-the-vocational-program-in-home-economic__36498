@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '44038'
     url: http://www.gutenberg.org/2009/agents/44038
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36498#The-Teaching-of-Art-Related-to-the-Homeinstruction-in-the-vocational-program-in-home-economic_
 gutenberg_issued: '2011-06-23'
 gutenberg_type: Text
 identifiers:
