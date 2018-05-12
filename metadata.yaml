@@ -1,0 +1,35 @@
+_repo: The-Teaching-of-Art-Related-to-the-Homeinstruction-in-the-vocational-program-in-home-economic__36498
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fallgatter, Florence
+    aliases:
+    - Fallgatter, Florence Alberta
+    - Fallgatter, Florence Albert
+    birthdate: 1891
+    gutenberg_agent_id: '38307'
+    url: http://www.gutenberg.org/2009/agents/38307
+  - agent_name: Gwynne, Elsie Wilson
+    alias: Wilson, Elsie Pearl
+    gutenberg_agent_id: '44038'
+    url: http://www.gutenberg.org/2009/agents/44038
+description: ''
+gutenberg_issued: '2011-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36498'
+  lccn: e31000702
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Home economics -- Study and teaching'
+- !lcsh 'Art -- Study and teaching'
+- !lcc 'LC'
+title: "The Teaching of Art Related to the Home\r\nSuggestions for content and method\
+  \ in related art instruction in the vocational program in home economics"
+url: http://www.gutenberg.org/ebooks/36498
